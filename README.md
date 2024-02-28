@@ -5,23 +5,23 @@
 2. All the code files(2 languages) are in the "Codes" folder.
 
 Table of contents:
-1.Prerequisites
-2.Setup
-3.Running the codes
+1. Prerequisites
+2. Setup
+3. Running the codes
 
 1. Prerequisites
 •	MySQL installed
 •	openssl installed
-•	matlab installed 
+•	Matlab installed 
 •	Python installed
 
 
 2. Setup
-->Connect the MySQL database to python using MySQL connecter library.
+->Connect the MySQL database to Python using MySQL connecter library.
 ->give your proper credentials of mysql database in python server code to connecting to mysql database.
 ->And create a database named pm_ap and a table named passwords in mysql workbench.
 
-3. 
+
 ->In python,Running the Server.py and use your system's ip address and socket number is 5000 to connect to server as a client and you can save your passwords without a worry.
 ->index.hmtl is the template used for gui
 ->make sure to change the path for certificate and key in the python code.
